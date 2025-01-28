@@ -1,0 +1,1 @@
+Create a web shooting game with html CSS and JavaScript. Add score game over and restart game in it. And add more features you can do to make it better website game that can be playable on mobile phone on the website. You can add joystick or anything for controls because phone doesn't have phisical keyboard.

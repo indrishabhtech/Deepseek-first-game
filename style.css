@@ -96,3 +96,20 @@ body, html {
     border-radius: 5px;
     margin-top: 20px;
 }
+
+
+.bullet {
+    position: absolute;
+    width: 10px;
+    height: 20px;
+    background-color: yellow;
+    bottom: 60px;
+}
+
+.enemy {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: purple;
+    top: 0;
+}
